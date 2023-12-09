@@ -1,7 +1,6 @@
 [![MasterHead](https://img.freepik.com/premium-photo/banner-starry-outer-space-background-texture_78899-4536.jpg?w=2000)](https://dylandagomber.com/)
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center">I'm an aspiring IT enthusiast on a journey to continuous learning more about it.</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 My [Portfolio](http://dylandagomber.com/)
 - 🌱 I’m currently doing **Cisco Certifications**
