@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center">I'm an aspiring IT enthusiast on a journey to continuous learning more about it.</h3>
 
