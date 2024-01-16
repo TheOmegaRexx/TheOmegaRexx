@@ -4,7 +4,7 @@
 
 - 🔭 My [Portfolio](http://dylandagomber.com/)
 - 🌱 I’m currently doing **Cisco Certifications**
-- 👨‍💻 All of my projects are available at [https://dylandagomber.com/projekte.html](https://dylandagomber.com/projekte.html)
+- 👨‍💻 All of my projects are available at [Here](https://dylandagomber.com/projekte.html)
 - 📫 How to reach me **Dylan.Dagomber@gmail.com**
 - 📄 Know about my experience [LinkedIn](https://www.linkedin.com/in/dylan-dagomber-654247258/)
 
