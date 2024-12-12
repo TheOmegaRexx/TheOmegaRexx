@@ -1,6 +1,6 @@
 [![MasterHead](https://img.freepik.com/premium-photo/banner-starry-outer-space-background-texture_78899-4536.jpg?w=2000)](https://dylandagomber.com/)
 <h1 align="center">Hi 👋, I'm Dylan</h1>
-<h3 align="center">I'm an aspiring IT enthusiast on a journey to continuous learning more about it.</h3>
+<h3 align="center">I'm an aspiring Computer Science student </h3>
 
 # 💫About Me :
 Hello, I am Dylan and currently a computer science student. My interest in programming and the digital world has motivated me to pursue a degree in computer science to further deepen my knowledge and connect with like-minded individuals. Besides my studies, I spend a lot of time working on my homelab and personal projects. I am particularly interested in software development, embedded systems, and artificial intelligence.
